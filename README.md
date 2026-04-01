@@ -18,13 +18,15 @@ The techniques investigated are:
 
 ---
 
-## 📊 Visual Results
+## Visual Results
 
 ### Original vs Augmented Data
-![Original vs Augmented](augmentation_plot.png)
+<img width="554" height="197" alt="image" src="https://github.com/user-attachments/assets/059505f0-7cad-4700-b154-b9cc65a01152" />
+
 
 ### Dropout Experiment – Loss Curves
-![Dropout vs No Dropout](dropout_loss_curves.png)
+<img width="460" height="249" alt="image" src="https://github.com/user-attachments/assets/a6de7782-2270-49da-bb0e-caab14843ec1" />
+
 
 ---
 
